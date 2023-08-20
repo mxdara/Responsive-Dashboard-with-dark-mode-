@@ -39,6 +39,3 @@ This is a responsive dashboard template with a dark mode option built using HTML
 
 
 Created by [Sameer Ahad](https://github.com/mxdara)
-# Responsive-Dashboard-with-dark-mode-
-# Responsive-Dashboard-with-dark-mode-
-# Responsive-Dashboard-with-darkmode
